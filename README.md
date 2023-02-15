@@ -1,2 +1,3 @@
-# strony_projekty
-Losowe strony odwzorowane w uproszczeniu
+# Witam
+
+Na tym repozytoriu możesz znaleźć znane strony takie jak Facebook, YouTube... oraz własne projekty mojego autorstwa. Są one tworzone w celu samorozwoju.
